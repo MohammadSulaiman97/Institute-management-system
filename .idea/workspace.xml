@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cead451-70a8-469d-a6fe-c878e568d6a4" name="Default" comment="add_layout">
+    <list default="true" id="2cead451-70a8-469d-a6fe-c878e568d6a4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -264,7 +264,7 @@
       <updated>1617105515354</updated>
       <workItem from="1617105517496" duration="6680000" />
       <workItem from="1617639785402" duration="597000" />
-      <workItem from="1621014488081" duration="4820000" />
+      <workItem from="1621014488081" duration="4900000" />
     </task>
     <task id="LOCAL-00001" summary="m">
       <created>1621015360994</created>
@@ -343,11 +343,18 @@
       <option name="project" value="LOCAL" />
       <updated>1621019448556</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add_view">
+      <created>1621019614268</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1621019614268</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12097000" />
+    <option name="totallyTimeSpent" value="12177000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -386,7 +393,8 @@
     <MESSAGE value="r_Dashboard" />
     <MESSAGE value="add_Dashboard" />
     <MESSAGE value="add_layout" />
-    <option name="LAST_COMMIT_MESSAGE" value="add_layout" />
+    <MESSAGE value="add_view" />
+    <option name="LAST_COMMIT_MESSAGE" value="add_view" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
