@@ -25,5 +25,10 @@ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name
 Route::namespace('App\Http\Controllers\Admin')->prefix('admin')->as('admin.')->group(function() {
     Auth::routes(['register' => false]);
     Route::get('/home', 'AdminController@index')->name('home');
+    Route::get('/{page}', 'AdminViewController@index');
 });
+
+
+
+//Route::get('/index', 'App\Http\Controllers\AdminViewController@indexs');
 
