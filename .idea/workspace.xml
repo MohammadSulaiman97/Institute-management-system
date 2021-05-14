@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cead451-70a8-469d-a6fe-c878e568d6a4" name="Default" comment="add_layout">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/admin/home.blade.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
               <folding>
                 <element signature="e#7#43#0#PHP" expanded="true" />
               </folding>
@@ -265,7 +264,7 @@
       <updated>1617105515354</updated>
       <workItem from="1617105517496" duration="6680000" />
       <workItem from="1617639785402" duration="597000" />
-      <workItem from="1621014488081" duration="4663000" />
+      <workItem from="1621014488081" duration="4820000" />
     </task>
     <task id="LOCAL-00001" summary="m">
       <created>1621015360994</created>
@@ -337,11 +336,18 @@
       <option name="project" value="LOCAL" />
       <updated>1621019243390</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add_layout">
+      <created>1621019448556</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1621019448556</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11940000" />
+    <option name="totallyTimeSpent" value="12097000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -379,7 +385,8 @@
     <MESSAGE value="Add_Dashboard" />
     <MESSAGE value="r_Dashboard" />
     <MESSAGE value="add_Dashboard" />
-    <option name="LAST_COMMIT_MESSAGE" value="add_Dashboard" />
+    <MESSAGE value="add_layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="add_layout" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -669,7 +676,7 @@
     <entry file="file://$PROJECT_DIR$/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
           <folding>
             <element signature="e#7#43#0#PHP" expanded="true" />
           </folding>
